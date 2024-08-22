@@ -1,0 +1,22 @@
+{
+    "emp_name": "Hari",
+    "emp_id": 1,
+    "login_time": "2024-08-22 10:18",
+    "logout_time": "2024-08-22 10:18",
+    "tasks": [
+        {
+            "task_title": "Task 1",
+            "task_description": "Finished the pending task",
+            "start_time": "2024-08-22 10:18",
+            "end_time": "2024-08-22 10:18",
+            "task_success": true
+        },
+        {
+            "task_title": "Task 2",
+            "task_description": "Pending task in progress",
+            "start_time": "2024-08-22 10:18",
+            "end_time": "2024-08-22 10:18",
+            "task_success": false
+        }
+    ]
+}
