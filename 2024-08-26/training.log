@@ -1,0 +1,22 @@
+2024-08-26
+1. New topics where given based on databases :
+
+Databases
+    a. Mongodb
+        i. Insert, delete, update, bulk insert
+        ii. Exporting, importing, dumping and restore
+        iii. GUI tools - compass
+        iv. Sharding, clustering, nodes
+        v. Indexing
+        vi. What is object ID and how to generate a   timestamp from object?
+        vii. Mongodb guidelines
+            1. Indexing with the unique key
+            2. Collection and database sharding
+            3. Naming standards for collections and databases
+            4. Data backup
+
+    b. Psql
+    c. Mysql
+
+2.Topics Covered : Mongodb full topics 
+  Topics remaining : Psql, Mysql (On progress)
