@@ -1,0 +1,9 @@
+2024-08-29
+1. Revised mongodb topics today.
+
+2. Work on previously done Employee_tracking_system program ,to store result into mongodb database
+   using vscode and also stored data can generated in formats like csv,json easily.
+
+3. Connected vscode with mongodb using mongodb extension in vscode. 
+
+4. Understand more about mongodb,mongodb shell,mongodb compass.
