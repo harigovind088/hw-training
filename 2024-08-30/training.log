@@ -1,0 +1,24 @@
+2024-08-30
+1.Meeting is conducted ,to clarify doubts from previous topics given.
+
+2.New topics where given based on Introduction to LINUX
+
+    1. Linux OS and Basic commands
+    2. Package Installers
+        a. apt-get
+        b. pip
+
+    3. Terminal text editor 
+        a. nano
+        b. Vim
+
+    4. IDE
+        a. Sublime text
+    Virtual environment
+
+3.Given new programming task to modify the Assignment-2 scrapy project is done   
+  using requests + parsel modules(without using scrapy),by splitting crawling and parsing stages 
+  in this program to separate two python files and run the code. 
+
+4. Task completed: Completed full topics on Introduction to LINUX
+   Task pending: programming task in progress
