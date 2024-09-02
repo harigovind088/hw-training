@@ -1,0 +1,17 @@
+2024-09-02
+1.Task completed: Completed pending programming task using requests + parsel 
+                  modules(without using scrapy-assignment 2 project) 
+
+  Modified the program by splitting entire program into 2 separate programs ,
+  one for crawling and one for parsing stages, Firstly crawling program is executed 
+  then the parsing program executed by getting the output from crawling stage to
+  parsing stage then final output is produced, after execution parsing stage. 
+  Here, I tried 2 ways : 
+  First way : Executing the program by storing the first stage result into text file then 
+  that file is put into parsing stage for further processing and output is produced at end.
+  Second way : Connecting with mongodb for storing the data generated during the first & second stages,
+               execution of program is similar as first way.  
+               
+ 
+
+
