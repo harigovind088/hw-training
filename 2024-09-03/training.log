@@ -1,6 +1,6 @@
 2024-09-03
 1.Meeting is conducted, yesterday's programming task is discussed and clarified the doubts.
-  Given some task regarding the program 
+  Given some task regarding the program:
   > To display the output using logging module for knowing status of running program in terminal.
   > Replace Null value in offer_price and discount_price with empty string.
   > Display the json output for each data in line by line.
