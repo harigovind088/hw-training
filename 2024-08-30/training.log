@@ -20,5 +20,5 @@
   using requests + parsel modules(without using scrapy),by splitting crawling and parsing stages 
   in this program to separate two python files and run the code. 
 
-4. Task completed: Completed full topics on Introduction to LINUX
-   Task pending: programming task in progress
+4. Task completed: Completed full topics on Introduction to LINUX.
+   Task pending: Programming task in progress.
