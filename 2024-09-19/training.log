@@ -1,0 +1,13 @@
+2024-09-18
+1.New task given:
+  Using the yesterday's product url fetched from website ,parse through each url and fetch below details: 
+  item["product_name"]         
+  item["brand"]     
+  item["regular_price"]
+  item["selling_price"] 
+  item["price_per_unit"]
+  item["breadcrumb"]
+  item["pdp_url"]
+  item["product_description"]
+
+2. Task Status : parsing (in progress)
