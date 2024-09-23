@@ -1,0 +1,28 @@
+2024-09-23
+1.Meeting is conducted, New tasks is given. 
+  a. Given some topics to cover requests docs, mongodb docs and responses.
+     covered above topics and workout it in ipython in ubuntu terminal to 
+     check the status of websites.
+  b. Given task to modify parsel code done on last day and add new fields to it.
+        unique_id
+        product_name
+        brand
+        producthierarchy_level1
+        producthierarchy_level2
+        producthierarchy_level3
+        producthierarchy_level4
+        producthierarchy_level5
+        producthierarchy_level6
+        producthierarchy_level7
+        regular_price
+        selling_price
+        price_per_unit
+        breadcrumb
+        pdp_url
+        product_description
+        image_urls
+
+2.Task Status:
+  Topics Covered : Requests,Response ,mongodb topics covered .
+  Task pending : Parsing code in progress
+   
