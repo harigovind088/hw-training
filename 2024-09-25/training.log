@@ -1,0 +1,21 @@
+2024-09-25
+1.Meeting is conducted and clarified doubts.
+2.New task is given :
+  a. from the product data stored in mongodb collection ,create a copy of data 
+     to another collection in same database
+  b. Add new fields to collection   
+     currency
+     file_name_1 eg: 4066447615852_1.png
+     image_url_1
+     file_name_2
+     image_url_2
+     file_name_3
+     image_url_3
+     file_name_4
+     image_url_4
+     file_name_5
+     image_url_5
+     file_name_6
+
+Task Status:
+Completed above task successfully    
